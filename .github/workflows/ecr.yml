@@ -1,4 +1,4 @@
-name: "ECR-ECS-EKS-Deployment"
+name: "ECR-ECS2-EKS-Deployment"
 on:
   workflow_dispatch:
 
